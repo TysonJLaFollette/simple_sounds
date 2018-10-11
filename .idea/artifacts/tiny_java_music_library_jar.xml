@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tiny_java_music_library:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tiny_java_music_library_jar</output-path>
+    <root id="archive" name="tiny_java_music_library.jar">
+      <element id="module-output" name="tiny_java_music_library" />
+    </root>
+  </artifact>
+</component>

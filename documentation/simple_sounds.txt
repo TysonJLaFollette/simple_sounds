@@ -1,0 +1,15 @@
+Currently, there are 3 different versions of the sound synthesizer. Each of them specializes in making a particular variety of sounds. Can we combine all 3 by giving one more channels that do the same thing as the others?
+
+What about simply a library of functions that each make some variety of simple sounds?
+	Beep - A very computery sine wave beep.
+	Clink - A tool striking stone, or an attack hitting indestructible armor.
+	Pok - A button being pressed.
+	Trill - A quick triple-note, like a bird singing or a cat purring.
+	Rumble - A low rumbling noise like the Smithy Gang destroying the bridge in Mario RPG.
+	Swish - A swinging sword, like in Zelda: A Link to the Past.
+	Whoosh - Wind rushing, comical sprinting, waves crashing.
+	Roar - An angry animal sound like the roars from the handheld Pokemon games.
+	Thud - Two firm objects colliding.
+	Crack - Two rock-hard objects colliding.
+	Splash - Something striking a liquid. Could be a diver, could be wet footsteps.
+	Talk - A pseudo talking noise, similar to the bla-bla-blas from Banjo Kazooie
